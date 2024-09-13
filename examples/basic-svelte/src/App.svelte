@@ -27,5 +27,5 @@
     on:update={handleUpdate}
     on:cancel={handleCancel}
     on:save={handleSave}
-    selection={{ type: 'Feature', geometry: { type: 'Point', coordinates: [4.570312500000001, 46.07323062540835] } }} />
+    selection={{ type: 'Feature', geometry: { type: 'Point', coordinates: [-112, 33 ] } }} />
 </div>

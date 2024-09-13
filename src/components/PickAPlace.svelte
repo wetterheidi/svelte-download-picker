@@ -6,7 +6,7 @@
   export let leaflet;
   export let lat = 33;
   export let lng = -112;
-  export let zoom = 3;
+  export let zoom = 10;
   export let guideOverlay = true;
   export let buttons = true;
   export let selectionModes = ['point', 'polygon'];
