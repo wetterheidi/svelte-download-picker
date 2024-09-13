@@ -4,8 +4,8 @@
   import LeafletPositionPicker from './LeafletPositionPicker.svelte';
 
   export let leaflet;
-  export let lat = 45;
-  export let lng = 0;
+  export let lat = 33;
+  export let lng = -112;
   export let zoom = 3;
   export let guideOverlay = true;
   export let buttons = true;
